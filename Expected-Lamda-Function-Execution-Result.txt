@@ -1,0 +1,28 @@
+2023-11-19 01:44:29 GMT INFO:mini:Executing: 'test_eb_time_local_zone_false'
+
+INFO:pyfuncs:
+Date, Time and Zone:
+2023-11-19 01:44:29 UTC
+2023-11-19 01:44:29 GMT INFO:mini:Executing: 'test_eb_time_local_zone_true'
+
+INFO:pyfuncs:
+Date, Time, Zone and Offset:
+2023-11-19 01:44:29 UTC +0000
+2023-11-19 01:44:29 GMT INFO:mini:Executing: 'test_eb_time_utc_zone_false'
+
+INFO:pyfuncs:
+Date, Time and Zone:
+2023-11-19 01:44:29 GMT
+2023-11-19 01:44:29 GMT INFO:mini:Executing: 'test_eb_time_utc_zone_true'
+
+INFO:pyfuncs:
+Date, Time, Zone and Offset:
+2023-11-19 01:44:29 GMT +0000
+2023-11-19 01:44:29 GMT INFO:mini:Executing: 'test_dt_weekend
+
+INFO:pyfuncs:
+'datetime' days (Sun == Zero) - (Sat == Six)
+INFO:pyfuncs:Date and Time:
+2023-11-19 01:44:29 
+INFO:pyfuncs:'display_name_weekend' 0, Day of the weekend == Sunday
+INFO:pyfuncs:flag_weekday == False

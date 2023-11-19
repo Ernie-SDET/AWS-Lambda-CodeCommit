@@ -1,0 +1,16 @@
+"
+Lambda function 'exercise-modules' calls functions in module
+'mini.py' that call functions in 'pyfuncs.py' and was created as
+a script to facilitate debugging.
+
+Log file 'Expected-Lamda-Function-Execution-Result' contains
+output that will be similar to the Lambda function 'Execution Result'
+because the same functions are called and in the same order in both
+'lambda handler()' and 'main()'.
+
+Output will be much more meaningful if run on a system that is not
+in the UTC or GMT timezone.
+
+Layer 'layer-mini-pyfuncs-requests' contains mini.py, pyfuncs.py and 
+requests which are required by the Lambda function.3gg
+"
